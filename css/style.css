@@ -397,7 +397,7 @@ header .navbar .cta-btn a:hover {
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
   font-weight: 800;
-  font-size: 200px;
+  font-size: 10vw;
   position: absolute;
   width: 100%;
   color: #f7f7f7;
