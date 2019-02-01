@@ -404,7 +404,7 @@ header .navbar .cta-btn a:hover {
   text-transform: uppercase;
 }
 @media screen and (max-width: 600px) {
-  #heading-wrap .back-text, .heading-wrap .back-text-dark{
+  #back-text{
     visibility: hidden;
     clear: both;
     float: left;
