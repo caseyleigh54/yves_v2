@@ -1,4 +1,7 @@
-
+html {
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
 
 body {
   background: #fff;
@@ -289,7 +292,8 @@ header .navbar .cta-btn a:hover {
 .item-class {
   position: relative;
   display: block;
- 
+  overflow-x: hidden;
+  overflow-y: scroll;
 }
 
 .item-class img {
@@ -743,7 +747,8 @@ header .navbar .cta-btn a:hover {
 
 .section {
   padding: 7em 0;
-  
+  overflow-x: hidden;
+  overflow-y: scroll;
 }
 
 .section-subscribe {
@@ -1003,7 +1008,7 @@ header .navbar .cta-btn a:hover {
 
 .media-custom > a {
   position: relative;
-  
+  overflow: hidden;
   display: block;
 }
 
@@ -1136,7 +1141,7 @@ header .navbar .cta-btn a:hover {
 .link-thumbnail {
   display: block;
   position: relative;
-  
+  overflow: hidden;
   text-align: center;
 }
 
